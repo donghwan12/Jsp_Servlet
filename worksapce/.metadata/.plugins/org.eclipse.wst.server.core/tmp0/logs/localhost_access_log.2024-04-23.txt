@@ -1,0 +1,12 @@
+127.0.0.1 - - [23/Apr/2024:17:43:54 +0900] "GET / HTTP/1.1" 404 807
+0:0:0:0:0:0:0:1 - - [23/Apr/2024:17:43:55 +0900] "GET /07_MVC_BOOK1/ HTTP/1.1" 200 10195
+0:0:0:0:0:0:0:1 - - [23/Apr/2024:17:43:55 +0900] "GET /07_MVC_BOOK1/resources/static/css/common.css HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [23/Apr/2024:17:43:55 +0900] "GET /07_MVC_BOOK1/resources/static/js/common.js HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [23/Apr/2024:17:43:55 +0900] "GET /07_MVC_BOOK1/resources/static/js/index.js HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [23/Apr/2024:17:43:55 +0900] "GET /favicon.ico HTTP/1.1" 404 818
+0:0:0:0:0:0:0:1 - - [23/Apr/2024:17:43:58 +0900] "GET /07_MVC_BOOK1/book/list HTTP/1.1" 200 7669
+0:0:0:0:0:0:0:1 - - [23/Apr/2024:17:43:58 +0900] "GET /07_MVC_BOOK1/resources/static/css/book/list.css HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [23/Apr/2024:17:43:58 +0900] "GET /07_MVC_BOOK1/resources/static/js/book/list.js HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [23/Apr/2024:18:11:49 +0900] "GET /07_MVC_BOOK1/ HTTP/1.1" 200 10195
+0:0:0:0:0:0:0:1 - - [23/Apr/2024:18:11:50 +0900] "GET /07_MVC_BOOK1/ HTTP/1.1" 200 10195
+0:0:0:0:0:0:0:1 - - [23/Apr/2024:18:11:51 +0900] "GET /07_MVC_BOOK1/book/list HTTP/1.1" 200 -
